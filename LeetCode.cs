@@ -52,15 +52,11 @@ public class LeetCode_AllTest
             XOR_Value = XOR_Value >> 1;
         }
         return result;
-    }
-
-  
+    } 
     #endregion
-
 }
-
-//SQL 語法
-#region RunTime Beats(2962 ms) 73.64% in LeetCode , Level：Easy
-//Big Countries 
-//Ans：SELECT name,population,area FROM World WHERE population > 25000000 OR area > 3000000
-#endregion
+    //SQL 語法
+    #region RunTime Beats(2962 ms) 73.64% in LeetCode , Level：Easy
+    //Big Countries 
+    //Ans：SELECT name,population,area FROM World WHERE population > 25000000 OR area > 3000000
+    #endregion
