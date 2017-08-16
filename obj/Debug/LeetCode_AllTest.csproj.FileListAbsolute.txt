@@ -1,0 +1,6 @@
+D:\Personal_Project\LeetCode_AllTest\LeetCode_AllTest\bin\Debug\LeetCode_AllTest.exe.config
+D:\Personal_Project\LeetCode_AllTest\LeetCode_AllTest\bin\Debug\LeetCode_AllTest.exe
+D:\Personal_Project\LeetCode_AllTest\LeetCode_AllTest\bin\Debug\LeetCode_AllTest.pdb
+D:\Personal_Project\LeetCode_AllTest\LeetCode_AllTest\obj\Debug\LeetCode_AllTest.exe
+D:\Personal_Project\LeetCode_AllTest\LeetCode_AllTest\obj\Debug\LeetCode_AllTest.pdb
+D:\Personal_Project\LeetCode_AllTest\LeetCode_AllTest\obj\Debug\LeetCode_AllTest.csprojResolveAssemblyReference.cache
