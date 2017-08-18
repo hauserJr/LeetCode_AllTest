@@ -19,6 +19,7 @@ public class LeetCodeResultShow
 
         #region 程式呼叫區,Method Call
         
+        
         #endregion
 
         #region 停止計算程式執行時間
@@ -39,4 +40,7 @@ public class LeetCodeResultShow
         RunTime.Start();//碼表開始計時
     }
     #endregion
+
+    
+    
 }

@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LeetCodeQA\LeetCode_All_Question.cs" />
+    <Compile Include="LeetCodeSolution\LeetCode_All_Solution.cs" />
     <Compile Include="LeetCodeResultShow.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
