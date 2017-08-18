@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-public class LeetCode_All_Question
+public class LeetCode_All_Solution
 {
     #region RunTime(142 ms) Beats 55.74% in LeetCode ,Level：Easy
     public bool JudgeCircle(string moves)

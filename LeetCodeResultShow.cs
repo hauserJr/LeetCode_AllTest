@@ -9,9 +9,9 @@ public class LeetCodeResultShow
     static System.Diagnostics.Stopwatch RunTime = new System.Diagnostics.Stopwatch();
     static string RunTime_ms = string.Empty;
     static void Main(string[] args)
-    { 
+    {
         //Question Area , 題目集中區
-        LeetCode_All_Question _CallResult = new LeetCode_All_Question();
+        LeetCode_All_Solution _CallResult = new LeetCode_All_Solution();
 
         #region 取得程式執行時間,非LeetCode上RunTime
         RunTimeSetUp();
